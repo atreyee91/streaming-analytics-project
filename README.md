@@ -55,6 +55,7 @@ Raw JSON Files
 │     - Funnel metrics                │
 │     - Conversion rates              │
 └─────────────────────────────────────┘
+
 Key Streaming Concepts Used:
 
 Watermarking: Handles late-arriving data (events that arrive out of order)
