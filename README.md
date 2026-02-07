@@ -349,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Atreyee Das**
-- LinkedIn: [linkedin.com/in/atreyee-das](https://linkedin.com/in/atreyee-das)
+- LinkedIn: [linkedin.com/in/atreyee-das](https://www.linkedin.com/in/atreyee-das-58238817/)
 - Email: atreyee2875@gmail.com
 - Location: Bengaluru, India
 
