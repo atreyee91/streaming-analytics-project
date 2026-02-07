@@ -122,20 +122,19 @@ json{
   "quantity": 1,
   "timestamp": "2025-02-07T17:25:31"
 }
-```
 
-**5. Gold Layer aggregations trigger:**
+5. Gold Layer aggregations trigger:**
 
 **Revenue Table** (5-min window):
-```
+
 window: [17:25:00 - 17:30:00]
 product_id: prod_42
 total_revenue: 199.99
 purchase_count: 1
-```
+
 
 **Conversion Funnel** (10-min window):
-```
+
 session_id: sess_abc
 page_views: 1
 add_to_carts: 1
